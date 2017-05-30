@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
     defaultConfig {
         applicationId "rlathfdl463.kr.hs.emirim.simplediarytest"
-        minSdkVersion 15
+        minSdkVersion 25
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
